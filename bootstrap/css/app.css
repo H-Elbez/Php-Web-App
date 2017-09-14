@@ -1,0 +1,19 @@
+Body {
+    padding-bottom: 45px;
+}
+
+thead {
+    background-color: #222222 !important;
+    color: #ffffff !important;
+    height: 40px;
+}
+
+#navigation {
+    margin-bottom: 45px;
+}
+
+#t {
+    padding-right: 15px;
+    padding-left: 15px;
+    text-align: center;
+}
