@@ -1,7 +1,8 @@
 # Foodora - Take Home Test #
 # Main interface #
-![Scheme](app/screenshots/S1.png)
+![alt text](https://github.com/Timodz/Php-Web-App/blob/master/screenshots/S1.png)
+
 
 # Data interface #
 
-![Scheme](app/screenshots/S2.png)
+![alt text](https://github.com/Timodz/Php-Web-App/blob/master/screenshots/S2.png)
